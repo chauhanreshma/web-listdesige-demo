@@ -1,0 +1,301 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+.div1 {
+	height: 850px;
+	width: 100%;
+	background-color: #0e0e0e;
+}
+
+.div2 {
+	height: 800px;
+	width: 70%;
+	background-color: #e8b4a1;
+	position: relative;
+	top: 25px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	
+}
+
+.div3 {
+	height:700px;
+	width: 50%;
+	background-color: red;
+	position: relative;
+	top: 50px;
+	left: 123px;
+	float: left;
+	border-radius: 10px 10px 10px 10px;
+	
+}
+
+.div4 {
+	height: 510px;
+	width: 200px;
+	background-color: slategrey;
+	float: right;
+	position: relative;
+	top: 230px;
+	right: 150px;
+	
+}
+
+.con1 {
+	height: 180px;
+	width: 100%;
+	background-color: grey;
+	border-radius: 10px 10px 0 0;
+}
+
+.con2 {
+	height: 130px;
+	width: 100%;
+	background-color: white;
+}
+
+.con3 {
+	height: 210px;
+	width: 100%;
+	background-color: white;
+	border-top: 2px solid #b5b4b4;
+}
+
+.con4 {
+	height: 80px;
+	width: 100%;
+	background-color: white;
+	border-top: 2px solid #b5b4b4;
+}
+
+.con5 {
+	height: 100px;
+	width: 100%;
+	background-color: white;
+	border-radius: 0 0 10px 10px;
+	border-top: 2px solid #b5b4b4;
+	
+}
+
+img {
+	width: 472px;
+	height: 180px;
+	border-radius: 10px 10px 0 0;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	
+}
+
+.imgradius {
+	height: 150px;
+	width: 150px;
+	background-color: aqua;
+	position: relative;
+	bottom: 70px;
+	left: 40px;
+	background-image: url(../image/rani3.jpg);
+	border-radius: 100px 100px 100px 100px;
+	background-position: center;
+	border: 5px solid white;
+}
+
+.radius {
+	height: 70px;
+	width: 70px;
+	background-color: white;
+	border-radius: 50px 50px 50px 50px;
+	position: relative;
+	top:40px;
+	left: 35px;
+	border: 7px solid #ff8635;
+	text-align: center;
+	font-family: arial;
+	
+	
+}
+
+.radius2 {
+	height: 70px;
+	width: 70px;
+	background-color: white;
+	border-radius: 50px 50px 50px 50px;
+	position: relative;
+    left: 200px;
+	bottom: 40px;
+	border: 7px solid #ff8635;
+	text-align: center;
+	font-family: arial;
+	
+}
+
+.radius3 {
+	height: 70px;
+	width: 70px;
+	background-color: white;
+	border-radius: 50px 50px 50px 50px;
+	position: relative;
+	bottom: 120px;
+	right: 40px;
+	float: right;
+	border: 7px solid #ff8635;
+	text-align: center;
+	font-family: arial;
+	
+}
+
+.tex1 {
+	height: 20px;
+	width: 80px;
+	color: #b1aeae;
+	position: relative;
+	font-family: arial;
+	top: 40px;
+	left: 40px;
+	font-size: 20px;
+	
+}
+
+.tex2 {
+	height: 20px;
+	width: 105px;
+	color: #b1aeae;
+	position: relative;
+	font-family: arial;
+	top: 20px;
+	left: 190px;
+	font-size: 20px;
+	
+
+}
+
+.tex3 {
+	height: 20px;
+	width: 80px;
+	color: #b1aeae;
+	position: relative;
+	font-family: arial;
+	right: 40px;
+	float: right;
+	font-size: 20px;
+	
+
+}
+
+.name {
+	height: 50px;
+	width: 230px;
+	color: #b1aeae;
+	position: relative;
+	float: right;
+	right: 20px;
+	top: 20px;
+	font-family: arial;
+	font-size: 40px;
+	
+}
+
+button {
+	height: 40px;
+	width: 140px;
+	background-color: #ff8635;
+	position: relative;
+	top: 30px;
+	left: 50px;
+	border: none;
+    color: white;
+    border-radius: 50px ;
+	padding: 9px 30px;
+    font-size: 20px;
+}
+
+button1 {
+	height: 22px;
+	width: 90px;
+	background-color: #ff8635;
+	position: relative;
+	top: 30px;
+	float: right;
+	right: 40px;
+	border: none;
+    border-radius: 50px ;
+	padding: 9px 25px;
+    text-align: center;
+    font-size: 20px;
+	font-family: arial;
+
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.bigname {
+	height: 50px;
+	width: 300px;
+	color: #b1aeae;
+	position: relative;
+	top: 15px;
+	left: 90px;
+	font-family: arial;
+	font-size: 38px;
+}
+
+.imgdiv1 {
+	height: 120px;
+	width: 100%;
+	background-color: #ff8635;
+}
+
+.imgdiv2 {
+	height: 130px;
+	width: 100%;
+
+
+
+}
+
+.imgdiv3 {
+	height: 130px;
+	width: 100%;
+
+}
+
+.imgdiv4 {
+	height: 130px;
+	width: 100%;
+
+}
+
+.camera {
+	height: 50px;
+	width: 90px;
+	
+	position: relative;
+	top: 10px;
+	left: 60px;
+	background-image: url(../image/camera1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+.photogallery {
+	height: 30px;
+	width: 130px;
+	color: white;
+	position: relative;
+	top: 20px;
+	left: 40px;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.img2 {
+	height: 130px;
+	width: 200px;
+}
